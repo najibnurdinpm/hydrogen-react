@@ -1,0 +1,2 @@
+import"./1b383df8.js";import{j as m}from"./index.05a944e4.js";import"./83a69ff7.js";import"./aec1b891.js";import"./a9b6d49b.js";import"./ab9fabc7.js";import{u as i}from"./7673577b.js";import"./31bbfb35.js";import"./038b5d6d.js";import"./14744646.js";import"./05fa0f36.js";import"./ab6f1f5b.js";import"./82cb8992.js";import"./c34bdfb5.js";import"./c13bd456.js";function M({money:r}){const{amount:o,currencyNarrowSymbol:t}=i(r);return m("span",{className:"line-through text-lg mr-2.5 text-gray-500",children:[t,o]})}export{M as default};
+//# sourceMappingURL=781640d3.js.map
